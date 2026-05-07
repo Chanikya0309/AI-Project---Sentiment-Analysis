@@ -125,7 +125,8 @@ Model deployment using Streamlit
 End-to-end ML workflow implementation
 Real-world challenges in sentiment analysis systems
 
--- Author
+-- Author:
+
 Chanikya Posham
 
 Aspiring Data Scientist & AI/ML Enthusiast
